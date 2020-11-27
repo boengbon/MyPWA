@@ -1,22 +1,14 @@
 
-    {
-  "short_name": "โปรแกรมบอล App",
-  "name": "ตารางถ่ายทอดสดฟุตบอล",
-  "icons": [
-    {
-      "src": "https://1.bp.blogspot.com/-dY2ljgKkkP8/X8Dppu4mARI/AAAAAAAARzs/HjEe79QdVh87eHDPV_Ck12ZpXQa7dnCaQCLcBGAsYHQ/s192/android-chrome-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-        {
-      "src": "https://1.bp.blogspot.com/-N7g7ZQ0KQ9s/X8Dpr2xph-I/AAAAAAAARzw/sdiz1tt-3RgwurhmH3jImV1qBK2tJdl9wCLcBGAsYHQ/s512/android-chrome-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    },
-  ],
-  "start_url": "/index.html",
-  "display": "standalone",
-  "orientation": "landscape",
-  "theme_color": "#141414",
-  "prefer_related_applications": false}
-
+  {"name":"boengbon",
+"short_name":"boengbon",
+"description":"football schedule Blog",
+"icons":[{"src":"https://1.bp.blogspot.com/-dY2ljgKkkP8/X8Dppu4mARI/AAAAAAAARzs/HjEe79QdVh87eHDPV_Ck12ZpXQa7dnCaQCLcBGAsYHQ/s192/android-chrome-192x192.png",
+"type":"image/png",
+"purpose":"any maskable"},
+{"src":"https://1.bp.blogspot.com/-N7g7ZQ0KQ9s/X8Dpr2xph-I/AAAAAAAARzw/sdiz1tt-3RgwurhmH3jImV1qBK2tJdl9wCLcBGAsYHQ/s512/android-chrome-512x512.png",
+"sizes":"512x512","type":"image/png"}
+],
+"background_color":"#ffffff",
+"theme_color":"#00e20b",
+"display":"standalone",
+"orientation":"portrait","start_url":".","scope":"/"}
