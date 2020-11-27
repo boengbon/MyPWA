@@ -5,6 +5,7 @@
   "lang": "th-TH",
   "start_url": "/",
   "display": "standalone",
+  "theme_color": "#141414",
   "icons": [
     {
       "src": "https://1.bp.blogspot.com/-dY2ljgKkkP8/X8Dppu4mARI/AAAAAAAARzs/HjEe79QdVh87eHDPV_Ck12ZpXQa7dnCaQCLcBGAsYHQ/s192/android-chrome-192x192.png"
