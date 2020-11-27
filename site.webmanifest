@@ -19,20 +19,5 @@
   "display": "standalone",
   "scope": "/",
   "theme_color": "#3367D6",
-  "shortcuts": [
-    {
-      "name": "โปรแกรมบอลคืนนี้?",
-      "short_name": "บอลคืนนี้",
-      "description": "ตารางบอล:ช่องถ่ายทอดสดคืนนี้",
-      "url": "/Tonight?source=pwa",
-      "icons": [{ "src": "https://1.bp.blogspot.com/-dY2ljgKkkP8/X8Dppu4mARI/AAAAAAAARzs/HjEe79QdVh87eHDPV_Ck12ZpXQa7dnCaQCLcBGAsYHQ/s192/android-chrome-192x192.png", "sizes": "192x192" }]
-    },
-    {
-      "name": "ปรแกรมบอลพรุ่งนี้?",
-      "short_name": "บอลพรุ่งนี้",
-      "description": "ตารางถบอล:ช่องถ่ายทอดสดพรุ่งนี้",
-      "url": "/tomorrow?source=pwa",
-      "icons": [{ "src": "https://1.bp.blogspot.com/-dY2ljgKkkP8/X8Dppu4mARI/AAAAAAAARzs/HjEe79QdVh87eHDPV_Ck12ZpXQa7dnCaQCLcBGAsYHQ/s192/android-chrome-192x192.png", "sizes": "192x192" }]
-    }
-  ]
+
 }
