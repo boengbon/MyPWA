@@ -11,4 +11,17 @@
       "src": "https://1.bp.blogspot.com/-dY2ljgKkkP8/X8Dppu4mARI/AAAAAAAARzs/HjEe79QdVh87eHDPV_Ck12ZpXQa7dnCaQCLcBGAsYHQ/s192/android-chrome-192x192.png"
     }
   ]
+  {
+  …
+  "icons": [
+    …
+    {
+      "src": "path/to/maskable_icon.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+  …
+}
 }
