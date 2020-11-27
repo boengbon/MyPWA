@@ -1,8 +1,9 @@
 {
-  "name": "โปรแกรมบอลวันนี้?",
-  "short_name": "บอลวันนี้",
-  "description": "ตารางบอล:ช่องถ่ายทอดสดวันนี้", 
-  "icons": [
+  "short_name": "MyCoolPWA",
+  "name": "My cool Progressive Web App",
+  "start_url": "https://boengbon.blogspot.com/?source=pwa",
+  "display": "standalone",
+  "icons": [   
     {
       "src": "https://1.bp.blogspot.com/-dY2ljgKkkP8/X8Dppu4mARI/AAAAAAAARzs/HjEe79QdVh87eHDPV_Ck12ZpXQa7dnCaQCLcBGAsYHQ/s192/android-chrome-192x192.png",
       "type": "image/png",
@@ -14,10 +15,9 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/?source=pwa",
+  "orientation": "landscape",
+  "description": "A simple experiment with PWAs",
   "background_color": "#3367D6",
-  "display": "standalone",
+  "theme_color": "#3367D6"
   "scope": "/",
-  "theme_color": "#3367D6",
-
 }
