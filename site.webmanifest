@@ -1,16 +1,23 @@
-{"name":"TechRBun","short_name":"Tech","description":"Tech",
- "start_url":"http://boengbon.blogspot.com/",
+{
+ "theme_color": "#f69435",
+ "background_color": "#ffffff",
+ "display": "fullscreen",
+ "scope": "https://dedball.blogspot.com/",
+ "start_url":"https://dedball.blogspot.com/",
+ "app_name": "dedball",
+ "short_name": "dedball",
+ "description":"football schedule", 
  "icons":[
-  {"src":"https://1.bp.blogspot.com/-i9MiCMXiimA/X8EahaNq1ZI/AAAAAAAAR0U/0f_VeaZV5fsjiJUJ1qum7SIc7jdDQWv0ACLcBGAsYHQ/s400/iaos192.png",
+  {
+   "src":"https://1.bp.blogspot.com/-i9MiCMXiimA/X8EahaNq1ZI/AAAAAAAAR0U/0f_VeaZV5fsjiJUJ1qum7SIc7jdDQWv0ACLcBGAsYHQ/s400/iaos192.png",
  "sizes":"192x192",
  "type":"image/png",
- "purpose":"any maskable"},
- {"src":"",
- "sizes":"https://1.bp.blogspot.com/-N7g7ZQ0KQ9s/X8Dpr2xph-I/AAAAAAAARzw/sdiz1tt-3RgwurhmH3jImV1qBK2tJdl9wCLcBGAsYHQ/s400/iaos512.png",
- "type":"image/png"}
+ "purpose":"any maskable"
+  },
+ {
+  "src":"https://1.bp.blogspot.com/-N7g7ZQ0KQ9s/X8Dpr2xph-I/AAAAAAAARzw/sdiz1tt-3RgwurhmH3jImV1qBK2tJdl9wCLcBGAsYHQ/s400/iaos512.png",
+ "sizes":"512x512",
+ "type":"image/png"
+ }
  ],
- "background_color":"#ffffff",
- "theme_color":"#00e20b",
- "display":"standalone",
- "orientation":"portrait",
 }
