@@ -2,7 +2,7 @@
     "theme_color": "#f69435",
     "background_color": "#f69435",
     "display": "standalone",
-    "scope": "https://dedball.blogspot.com/index.html",
+    "scope": "https://dedball.blogspot.com",
     "start_url": "https://dedball.blogspot.com",
     "app_name": "dedball",
     "short_name": "dedball",
