@@ -1,15 +1,16 @@
 {"name":"TechRBun","short_name":"TechRBun","description":"Technology And Blogging",
  "icons":[
-  {"src":"https://lh3.googleusercontent.com/-YtugWRdOIpE/X8ACWHHhDUI/AAAAAAAARzI/sTt2tzIzepQB-pkkHijZyRZB5p--tVqkQCEwYBhgLKtMDAL1Ocqwc9hCZqFUsU4buxcjc37OFBZ8LTc2jXffbWUSkVlzQNA-0bDZ7SiZnIzfl-WTckzIcu6GAcBif6QmZ08l2JPNIiaya8ncuvgfTwWggyow-Xxe6lyMfsUuFHXdaqE9-mhUd8K_E7WbiZh5RHF-NL2Dti10qRvh81-J3nRUaO0jUggfp1XxfI1C9mTNQ062cZ8ifQBywD-PaVt3mnQvhNL2GMFYHDoJX-HOdVxK3nvIdl98ZYvWpvRLc0RlKekUW_-YH0NuNuJPeoKSPi0AW_arl0OBp0a3_9rQYlPV1t9f_Yf_tn6Gk-pmUb6av2bXTuBriyWkhrw28RNs1J26Sf_tKLBfjX_WEbzBUagjw8C7DmKo1QhbtbW11Cne4BMI2qp0CAaShSpkD8nwTD3wvrDwpPRiOx34x0GFI4pHYZu8RaRq-CYjpV4M0880PV5FEZluyZUArAoOzoYh0i2Pv7HRAFvYxE_7QGW7zLMZKSJLIL1WAbDuBsW3K112U_Y1h_pxzB5Xzgh_uNeXTtNBIbSMRgQaGIrSzPA5HHylHlJxL9gpK4jZ6E_76fzp8iJ5E5uJZCkQi06S2a1e4jN9BRgROZHbszQSWdLzgcDd2OWMwltyI_gU/w140-h140-p/android-chrome-192x192.png",
+  {"src":"https://1.bp.blogspot.com/-dY2ljgKkkP8/X8Dppu4mARI/AAAAAAAARzs/HjEe79QdVh87eHDPV_Ck12ZpXQa7dnCaQCLcBGAsYHQ/s192/android-chrome-192x192.png",
  "sizes":"192x192",
- "type":"image\/png",
+ "type":"image/png",
  "purpose":"any maskable"},
- {"src":"https://lh3.googleusercontent.com/-N7g7ZQ0KQ9s/X8Dpr2xph-I/AAAAAAAARz4/OcYanp3STzw16waB5Z-BMzal0u2QyO6ZACEwYBhgLKtMDAL1Ocqyqq9DulNmXz5qNTR0pAJvhAQEAvaNlzhjP84jNLJHr3irWzUMN1fMmw9guF64Aki4w_jGi2mZI-_Cf5vMNE3ra1F_59ADmZ9r-rT9uR_cTAkyba4lww4feV0do8yXu0SwA_NonWEDVjRfCNEOfqsT6KG219roiskTMn9oVAqQBpC-yXEENk6rYyOmqEeSV_ZJe7l72PJDNjS1-vdWXJYkCXu69ZiUQe6cXnhVSzhobDOXEyyIgWbYjR7QAtP0EFA4gVCJI5TBM40-Aq7a8hjvlfWwLIn3K2pWnguo7ZazohHTfjIpR4LjbwD875CXPXqwjNPW4oFUPDOj8vp4spg_7ymmADhlkxg_G6o-P9iSzCv-h5uOiuoBVXSKywzk_c26EuMUIWZHhfcWXflMWiblJ6GAGIECJk5aU3wMiFfw4x-xqJtiEIw4hIyqFvD1dOu2ahq1PWxDPKqqCVkh3caetPdpSlSCWdac9PY_AR5DjZy7tEOPVREaGLOeJkT83xC_rNkM17Ve4kTMlEPdHq-RnV-M-1Oo0DlG7NbAc-XPC4-WO-G9fKDwZA2Wj_Y1kzMxEgFa__HTJcnogsSi79YXQuIeF1P0L6Y7iuWHsrrgwpN2I_gU/w140-h140-p/android-chrome-512x512.png",
+ {"src":"",
  "sizes":"512x512",
- "type":"image\/png"}
+ "type":"image/png"}
  ],
  "background_color":"#ffffff",
  "theme_color":"#00e20b",
  "display":"standalone",
  "orientation":"portrait",
- "start_url":"https://boengbon.blogspot.com/","scope":"https://boengbon.blogspot.com/"}
+ "start_url":"/"
+}
