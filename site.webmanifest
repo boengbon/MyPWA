@@ -1,23 +1,32 @@
 {
- "theme_color": "#f69435",
- "background_color": "#ffffff",
- "display": "fullscreen",
- "scope": "https://dedball.blogspot.com/index.html",
- "start_url":"https://dedball.blogspot.com/",
- "app_name": "dedball",
- "short_name": "dedball",
- "description":"football schedule", 
- "icons":[
-  {
-   "src":"https://1.bp.blogspot.com/-i9MiCMXiimA/X8EahaNq1ZI/AAAAAAAAR0U/0f_VeaZV5fsjiJUJ1qum7SIc7jdDQWv0ACLcBGAsYHQ/s400/iaos192.png",
- "sizes":"192x192",
- "type":"image/png",
- "purpose":"any maskable"
-  },
- {
-  "src":"https://1.bp.blogspot.com/-N7g7ZQ0KQ9s/X8Dpr2xph-I/AAAAAAAARzw/sdiz1tt-3RgwurhmH3jImV1qBK2tJdl9wCLcBGAsYHQ/s400/iaos512.png",
- "sizes":"512x512",
- "type":"image/png"
- }
- ],
+    "theme_color": "#f69435",
+    "background_color": "#f69435",
+    "display": "standalone",
+    "scope": "https://dedball.blogspot.com/index.html",
+    "start_url": "https://dedball.blogspot.com",
+    "app_name": "dedball",
+    "short_name": "dedball",
+    "description": "football schedule",
+    "icons": [
+        {
+            "src": "https://lh3.googleusercontent.com/-xVoz-L5-wq0/X8KXIU4JwKI/AAAAAAAAABc/rBQ11Cx9OVkHnmyCn3aTMy_t4baa4ZKRQCLcBGAsYHQ/h120/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://lh3.googleusercontent.com/-miRcRuQPBOU/X8KXIW83GLI/AAAAAAAAABY/cvJNeLw8Bf4_CZdT7Ve5HLhe1zAtJRYxwCLcBGAsYHQ/h120/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "https://lh3.googleusercontent.com/-Kf3kGZkDUJ0/X8KXIT6BSpI/AAAAAAAAABg/d7pveq2eQpIj1AdlU1phT680sG2heMomwCLcBGAsYHQ/h120/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "https://lh3.googleusercontent.com/-jhAQXgPUePY/X8KXJCxMyfI/AAAAAAAAABk/vCTxdtlzxK8CavaODf6X-4WaGvfBE4PIQCLcBGAsYHQ/h120/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
 }
