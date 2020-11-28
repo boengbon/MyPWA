@@ -1,13 +1,17 @@
 {
-  {name: "DEV Community", short_name: "dev.to",…}
-background_color: "#000000"
-description: "A constructive and inclusive social network. Open source and radically transparent."
-display: "standalone"
-homepage_url: "https://dev.to"
-icons: [{https://lh3.googleusercontent.com/-xVoz-L5-wq0/X8KXIU4JwKI/AAAAAAAAABc/rBQ11Cx9OVkHnmyCn3aTMy_t4baa4ZKRQCLcBGAsYHQ/s192/iaos192.png}, {,…}, {,…}]
-name: "DEV Community"
-short_name: "dev.to"
-start_url: "/"
-theme_color: "#000000
-
+    "theme_color": "#f69435",
+    "background_color": "#f69435",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "https://dedball.blogspot.com",
+    "name": "dedball",
+    "short_name": "dedball",
+    "description": "football schedule",
+    "icons": [
+        {
+            "src": "https://lh3.googleusercontent.com/-xVoz-L5-wq0/X8KXIU4JwKI/AAAAAAAAABc/rBQ11Cx9OVkHnmyCn3aTMy_t4baa4ZKRQCLcBGAsYHQ/s192/iaos192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+       ]
 }
