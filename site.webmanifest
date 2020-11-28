@@ -2,8 +2,8 @@
     "theme_color": "#f69435",
     "background_color": "#f69435",
     "display": "standalone",
-    "scope": "https://dedball.blogspot.com",
-    "start_url": "https://dedball.blogspot.com",
+      "start_url": "/app",
+  "scope": "/app"
     "name": "dedball",
     "short_name": "dedball",
     "description": "football schedule",
