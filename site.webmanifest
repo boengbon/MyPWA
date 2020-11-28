@@ -9,22 +9,22 @@
     "description": "football schedule",
     "icons": [
         {
-            "src": "https://lh3.googleusercontent.com/-xVoz-L5-wq0/X8KXIU4JwKI/AAAAAAAAABc/rBQ11Cx9OVkHnmyCn3aTMy_t4baa4ZKRQCLcBGAsYHQ/h120/icon-192x192.png",
+            "src": "https://lh3.googleusercontent.com/-xVoz-L5-wq0/X8KXIU4JwKI/AAAAAAAAABc/rBQ11Cx9OVkHnmyCn3aTMy_t4baa4ZKRQCLcBGAsYHQ/s192/iaos192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "https://lh3.googleusercontent.com/-miRcRuQPBOU/X8KXIW83GLI/AAAAAAAAABY/cvJNeLw8Bf4_CZdT7Ve5HLhe1zAtJRYxwCLcBGAsYHQ/h120/icon-256x256.png",
+            "src": "https://lh3.googleusercontent.com/-xVoz-L5-wq0/X8KXIU4JwKI/AAAAAAAAABc/rBQ11Cx9OVkHnmyCn3aTMy_t4baa4ZKRQCLcBGAsYHQ/s256/iaos256.png",
             "sizes": "256x256",
             "type": "image/png"
         },
         {
-            "src": "https://lh3.googleusercontent.com/-Kf3kGZkDUJ0/X8KXIT6BSpI/AAAAAAAAABg/d7pveq2eQpIj1AdlU1phT680sG2heMomwCLcBGAsYHQ/h120/icon-384x384.png",
+            "src": "https://lh3.googleusercontent.com/-xVoz-L5-wq0/X8KXIU4JwKI/AAAAAAAAABc/rBQ11Cx9OVkHnmyCn3aTMy_t4baa4ZKRQCLcBGAsYHQ/s384/iaos384.png",
             "sizes": "384x384",
             "type": "image/png"
         },
         {
-            "src": "https://lh3.googleusercontent.com/-jhAQXgPUePY/X8KXJCxMyfI/AAAAAAAAABk/vCTxdtlzxK8CavaODf6X-4WaGvfBE4PIQCLcBGAsYHQ/h120/icon-512x512.png",
+            "src": "https://lh3.googleusercontent.com/-xVoz-L5-wq0/X8KXIU4JwKI/AAAAAAAAABc/rBQ11Cx9OVkHnmyCn3aTMy_t4baa4ZKRQCLcBGAsYHQ/s512/iaos512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
