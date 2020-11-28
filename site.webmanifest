@@ -3,7 +3,7 @@
     "background_color": "#f69435",
     "display": "standalone",
     "scope": "https://dedball.blogspot.com",
-    "start_url": "https://dedball.blogspot.com",
+    "start_url": "https://dedball.blogspot.com/index.html?utm_source=app_manifest",
     "name": "dedball",
     "short_name": "dedball",
     "description": "football schedule",
