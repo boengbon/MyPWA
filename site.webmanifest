@@ -12,5 +12,5 @@
  "theme_color":"#00e20b",
  "display":"standalone",
  "orientation":"portrait",
- "start_url":"/"
+ "start_url":"index.html"
 }
