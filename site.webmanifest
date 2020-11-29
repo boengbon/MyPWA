@@ -1,11 +1,11 @@
 {
-  "name": "It's Apple OS",
-  "short_name": "It's Apple OS",
+  "name": "dedball",
+  "short_name": "dedball",
   "start_url": "https://dedball.blogspot.com/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1a73e8",
-  "description": "It's Apple OS is all about iPhone signed ipsw files, iOS Tools, Apps sale, news and tricks",
+  "description": "football TV schedules for every week and game times for the 2021-22 season",
   "icons": [{
     "src": "https://3.bp.blogspot.com/-DSir6HiwQfw/XwytVC4ck6I/AAAAAAAAIxE/V-ZuQkV1xiIIx6k86kgGhGaJghoRN4zQgCK4BGAYYCw/s400/iaos36.png' rel='apple-touch-icon",
     "sizes": "36x36",
