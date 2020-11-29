@@ -1,7 +1,7 @@
 {
   "name": "It's Apple OS",
   "short_name": "It's Apple OS",
-  "start_url": "https://www.itsappleos.com/",
+  "start_url": "https://dedball.blogspot.com/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1a73e8",
@@ -37,7 +37,7 @@
     "type": "image/png",
     "density": "4.0"
   }, {
-    "src": "https://2.bp.blogspot.com/--1e26_JpJBk/XwytK52kx4I/AAAAAAAAIw4/LXQDzsOOdWAr0JNo-5dtaA8ndDK7vbaggCK4BGAYYCw/s320/iaos512.png' rel='apple-touch-icon",
+    "src": "https://2.bp.blogspot.com/--1e26_JpJBk/XwytK52kx4I/AAAAAAAAIw4/LXQDzsOOdWAr0JNo-5dtaA8ndDK7vbaggCK4BGAYYCw/s400/iaos512.png' rel='apple-touch-icon",
     "sizes": "512x512",
     "type": "image/png",
     "density": "5.0"
